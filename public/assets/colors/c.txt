@@ -1,0 +1,13 @@
+COLORS:
+	pumpkin	    : #FA8334 / rgb(250, 131, 52)
+	cardinal    : #BA3B46 / rgb(186, 59, 70)
+	red         : #941B0C / rgb(148, 27, 12)
+	light green : #6A8E66 / rgb(106, 142, 102)
+	mid green   : #5A8155 / rgb(90, 129, 85)
+	dark green  : #374F42 / rgb(55, 79, 66)
+	biege 	    : #E4E6C3 / rgb(228, 230, 195)
+	white       : #FFFFFF / rgb(255, 255, 255)
+	light grey  : #A89B8C / rgb(168, 155, 140)
+	dark grey   : #767373 / rgb(118, 115, 115)
+	jet grey    : #333232 / rgb(51, 50, 50)
+	black       : #000000 / rgb(0, 0, 0)
